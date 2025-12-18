@@ -783,5 +783,5 @@ ins {
 .wrap {
   --wrapper-max-width: 60rem;
   --gutter: var(--space-s-xl);
-  background-color: white;
+  background-color: transparent;
 }
