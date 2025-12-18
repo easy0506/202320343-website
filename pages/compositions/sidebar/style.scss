@@ -1,0 +1,12 @@
+@use "../../../styles/global/base";
+@use "../../../styles/utilities/region";
+@use "../../../styles/compositions/flow";
+@use "../../../styles/compositions/sidebar";
+@use "../../../styles/compositions/wrapper";
+
+.wrap {
+  --wrapper-max-width: 60rem;
+  --gutter: var(--space-s-xl);
+
+  background-color: white;
+}
